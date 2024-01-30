@@ -1,0 +1,60 @@
+body{
+    background-color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;  
+}
+
+#form_container{
+    width: 30%;
+    height: 55vh;
+    margin-left: 35%;
+    margin-top: 10vh;
+    text-align: center;
+    background-color: white;
+    color: purple;
+    border-radius: 10000px;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+#head_log{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20%;
+}
+
+#email{
+    margin-bottom: 5vh;
+}
+
+#main_header_body{
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    height: 15vh;
+    background-color: white;
+    border-radius: 5000px;
+
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+#main_header_text{
+    text-decoration: none;
+    color: purple; 
+    height: 15vh;   
+    width: 40%;
+    border-radius: 5000px;
+}
+
+#submit{
+    margin-top: 15px;
+    background-color: purple;
+    border: none;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 50px;
+    color: white;
+}
